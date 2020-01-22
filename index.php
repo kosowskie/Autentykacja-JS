@@ -21,11 +21,11 @@
 <link href="css/background.css" rel="stylesheet" >
 
     
-    <title>Piotr Kowalecki</title>
+    <title>Emanuel Kosowski</title>
 </head>
 <body>
  <div id="cf">
-    <img class="background1" src="obrazki/tlo/czarne.jpg" />
+    <img class="background1" src="obrazki/tlo/czarne6.jpg" />
 </div>
 
 <link href="css/navbar.css" rel="stylesheet">
@@ -41,12 +41,12 @@
 <link href="css/iconbar.css" rel="stylesheet">
 <div class="icon-bar">
   <a href="https://www.facebook.com/amw.gdynia/" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-  <a href="mrdann1404@gmail.com" class="google" target="_blank"><i class="fa fa-google"></i></a>
-  <a href="https://github.com/pkowalecki" class="github" target="_blank"><i class=" fa fa-github"></i></a>
+  <a href="emanuelkosowski@gmail.com" class="google" target="_blank"><i class="fa fa-google"></i></a>
+  <a href="https://github.com/kosowskie" class="github" target="_blank"><i class=" fa fa-github"></i></a>
   <!--<a href="#" class="telegram"><i class="fa fa-telegram"></i></a>
   <a href="#" class="slack"><i class="fa fa-slack"></i></a>!-->
 </div>
-<center><div class="napis1">Zobacz jak wygląda Nasz portal: *obrazki z tabelek czy coś*</div></center>
+<center><div class="napis1">CYBERPUNK</div></center>
 
 <link href="css/scroller.css" rel="stylesheet">
 <div class="topButton">
@@ -70,7 +70,7 @@
 
 </body>          
 
-<footer class="footer">To jest stopka</footer>
+<footer class="footer">TEST</footer>
     <!-- skrypciki !-->
     <script src="js/clickOverBox.js"></script> 
     <script src="js/scroller.js"></script>  

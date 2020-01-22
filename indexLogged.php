@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,11 +21,11 @@
 <link href="css/background.css" rel="stylesheet" >
 
     
-    <title>Piotr Kowalecki</title>
+    <title>Emanuel Kosowski</title>
 </head>
 <body>
  <div id="cf">
-    <img class="background1" src="obrazki/tlo/czarne.jpg" />
+    <img class="background1" src="obrazki/tlo/czarne5.jpg" />
 </div>
 
 <link href="css/navbar.css" rel="stylesheet">
@@ -37,38 +36,27 @@
   <a href="#informations">Informacje</a>
 </div>
 
-
-
-
 <link href="css/slides.css" rel="stylesheet">
 <div class="slideshow-container">
 
   <div class="mySlides fade">
-    <img src="obrazki/slideshow/1.jpg" style="width:100%">
+    <img src="obrazki/slideshow/4.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="obrazki/slideshow/2.jpg" style="width:100%">
+    <img src="obrazki/slideshow/5.jpg" style="width:100%">
   </div>
     </div>
-    
-
-
-
-
 
 <link href="css/iconbar.css" rel="stylesheet">
 <div class="icon-bar">
   <a href="https://www.facebook.com/amw.gdynia/" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-  <a href="mrdann1404@gmail.com" class="google" target="_blank"><i class="fa fa-google"></i></a>
-  <a href="https://github.com/pkowalecki" class="github" target="_blank"><i class=" fa fa-github"></i></a>
+  <a href="emanuel.kosowski@gmail.com" class="google" target="_blank"><i class="fa fa-google"></i></a>
+  <a href="https://github.com/kosowskie" class="github" target="_blank"><i class=" fa fa-github"></i></a>
   <a href="#" class="telegram"><i class="fa fa-telegram"></i></a>
 </div>
 
-
-
-
-<center><div class="napis1">Jakie ładne widoki</div></center>
+<center><div class="napis1">Steampunk wave</div></center>
 
 <link href="css/scroller.css" rel="stylesheet">
 <div class="topButton">
@@ -76,11 +64,9 @@
         
 </body>          
 
-<footer class="footer">To jest stopka</footer>
+<footer class="footer">TEST_SLIDESHOW</footer>
     <!-- skrypciki !-->
     <script src="js/slideshow.js"></script>
     <script src="js/clickOverBox.js"></script> 
     <script src="js/scroller.js"></script>  
-    
-                    
 </html>
